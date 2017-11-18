@@ -1,8 +1,8 @@
 # BouncingBallAkkaFX
 Distributed Bouncing Ball written with Akka and JavaFX
-##Demo
+## Demo
 
-##TODO
+## TODO
 
-##Running
+## Running
 
