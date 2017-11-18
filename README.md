@@ -1,7 +1,7 @@
 # BouncingBallAkkaFX
 Distributed Bouncing Ball written with Akka and JavaFX
 ## Demo
-
+![Demo](https://github.com/mhrimaz/BouncingBallAkkaFX/raw/master/bouncingball.GIF)
 ## TODO
 - Use Akka Cluster inorder to have no single-point of failure.
 - Make communication more efficient
